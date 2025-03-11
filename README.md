@@ -52,7 +52,7 @@ rainy,75.0,80.0,false,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows employee table on weka.
 
-### OUTPUT:
+
 
 
 
@@ -75,6 +75,8 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/f8537ab3-05bb-40f7-9bdc-e2fc0d1f612f)
+![image](https://github.com/user-attachments/assets/e78c0a26-a490-4046-bb69-49fd7ea67e80)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +93,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/6fa1e4ba-58d3-4f55-9f92-5502c2992b24)
+![image](https://github.com/user-attachments/assets/c9aca39f-d0e1-4160-99b6-407df1cb77e2)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +111,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/5bc654b7-d222-4379-817d-ca5910355aad)
+![image](https://github.com/user-attachments/assets/88c665fd-bccf-4ea1-9bf1-c1c81c4705d3)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
